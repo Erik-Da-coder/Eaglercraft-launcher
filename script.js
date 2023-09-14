@@ -66,6 +66,6 @@ function changeListener() {
   }if (value == "hackedclientsa") {
     $(".divs").fadeIn("slow");
   } if (value == "placeholder") {
-    alert("You must choose an option.\n- Sebastian-105");
+    alert("You must choose an option.\n- Minecraft");
   }
 }
